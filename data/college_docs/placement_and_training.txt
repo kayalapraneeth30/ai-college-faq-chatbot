@@ -1,0 +1,19 @@
+COLLEGE TRAINING & PLACEMENT CELL (T&P) GUIDELINES
+
+1. PLACEMENT ELIGIBILITY CRITERIA:
+- Minimum overall CGPA of 6.5 or above across completed semesters.
+- Students must have zero active backlogs at the commencement of campus recruitment drives.
+- Minimum 80% attendance in all pre-placement training (PPT) sessions, coding assessments, and soft skills workshops.
+
+2. ONE-STUDENT ONE-OFFER POLICY:
+- Once a student secures an offer with a CTC >= INR 6 LPA (Tier-1 Dream Offer), they are considered placed and are only eligible to apply for "Super Dream" companies offering CTC >= INR 12 LPA.
+- A student who receives two offers must confirm acceptance of one offer within 48 hours.
+
+3. INTERNSHIPS:
+- Summer internships (6 to 8 weeks) after 6th semester are mandatory for all undergraduate students.
+- Students securing semester-long internships in 8th semester must obtain an NOC (No Objection Certificate) from the Head of the Department and maintain weekly project progress reports.
+
+4. RESUME & INTERVIEW PREPARATION:
+- Standard college format resume verified and signed by faculty coordinator is mandatory for company applications.
+- Mock technical interviews and group discussions are conducted every Saturday starting from 5th semester.
+- Training modules include Data Structures & Algorithms, System Design, Aptitude, Quantitative Analysis, and Verbal Reasoning.

@@ -1,0 +1,28 @@
+COLLEGE ACADEMIC REGULATIONS & POLICIES
+
+1. ATTENDANCE REQUIREMENTS:
+- Every student must maintain a minimum attendance of 75% in each registered subject (theory, practical, and seminar) to be eligible to appear for the End Semester Examinations.
+- Condonation of shortage of attendance between 65% and 75% may be granted by the Academic Council strictly on valid medical grounds, supported by a government medical officer's certificate submitted within 3 working days of resumption of classes.
+- A condonation fee of INR 1,000 per subject applies if condonation is approved.
+- Students having attendance below 65% in any semester are detained and will not be promoted to the next semester. They must re-register for the semester in the subsequent academic year.
+
+2. CREDIT & DEGREE REQUIREMENTS:
+- The total credits required for the award of a 4-year B.Tech degree is 160 credits.
+- Minimum credit requirements for year-to-year promotion:
+  * Promotion to 2nd year: Minimum 24 credits out of 40 credits in 1st year.
+  * Promotion to 3rd year: Minimum 52 credits accumulated from 1st and 2nd years.
+  * Promotion to 4th year: Minimum 84 credits accumulated from 1st, 2nd, and 3rd years.
+- Maximum duration to complete the 4-year degree is 7 consecutive academic years.
+
+3. GRADING SYSTEM & EVALUATION:
+- The college follows a 10-point absolute grading scale:
+  * Grade 'O' (Outstanding): Marks >= 90%, Grade Point = 10
+  * Grade 'A+' (Excellent): Marks 80-89%, Grade Point = 9
+  * Grade 'A' (Very Good): Marks 70-79%, Grade Point = 8
+  * Grade 'B+' (Good): Marks 60-69%, Grade Point = 7
+  * Grade 'B' (Above Average): Marks 50-59%, Grade Point = 6
+  * Grade 'C' (Pass): Marks 40-49%, Grade Point = 5
+  * Grade 'F' (Fail): Marks < 40%, Grade Point = 0 (Must reappear in supplementary exam)
+  * Grade 'Ab' (Absent): Grade Point = 0
+- Semester Grade Point Average (SGPA) = Sum(Credits * Grade Points) / Sum(Credits) for the semester.
+- Cumulative Grade Point Average (CGPA) = Sum of all grade points across all completed semesters divided by total registered credits.

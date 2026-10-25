@@ -1,0 +1,236 @@
+[
+  {
+    "text": "COLLEGE ACADEMIC REGULATIONS & POLICIES 1. ATTENDANCE REQUIREMENTS: - Every student must maintain a minimum attendance of 75% in each registered subject (theory, practical, and seminar) to be eligible to appear for the End Semester Examinations.",
+    "source": "academic_regulations.txt",
+    "chunk_id": 0,
+    "metadata": {
+      "char_count": 245,
+      "word_count": 36
+    }
+  },
+  {
+    "text": "to be eligible to appear for the End Semester Examinations. - Condonation of shortage of attendance between 65% and 75% may be granted by the Academic Council strictly on valid medical grounds, supported by a government medical officer's certificate submitted within 3 working days of resumption of classes. - A condonation fee of INR 1,000 per subject applies if condonation is approved.",
+    "source": "academic_regulations.txt",
+    "chunk_id": 1,
+    "metadata": {
+      "char_count": 388,
+      "word_count": 62
+    }
+  },
+  {
+    "text": "of INR 1,000 per subject applies if condonation is approved. - Students having attendance below 65% in any semester are detained and will not be promoted to the next semester. They must re-register for the semester in the subsequent academic year. 2. CREDIT & DEGREE REQUIREMENTS: - The total credits required for the award of a 4-year B.Tech degree is 160 credits. - Minimum credit requirements for year-to-year promotion:",
+    "source": "academic_regulations.txt",
+    "chunk_id": 2,
+    "metadata": {
+      "char_count": 423,
+      "word_count": 69
+    }
+  },
+  {
+    "text": "s. - Minimum credit requirements for year-to-year promotion: * Promotion to 2nd year: Minimum 24 credits out of 40 credits in 1st year. * Promotion to 3rd year: Minimum 52 credits accumulated from 1st and 2nd years. * Promotion to 4th year: Minimum 84 credits accumulated from 1st, 2nd, and 3rd years. - Maximum duration to complete the 4-year degree is 7 consecutive academic years. 3. GRADING SYSTEM & EVALUATION:",
+    "source": "academic_regulations.txt",
+    "chunk_id": 3,
+    "metadata": {
+      "char_count": 415,
+      "word_count": 70
+    }
+  },
+  {
+    "text": "consecutive academic years. 3. GRADING SYSTEM & EVALUATION: - The college follows a 10-point absolute grading scale: * Grade 'O' (Outstanding): Marks >= 90%, Grade Point = 10 * Grade 'A+' (Excellent): Marks 80-89%, Grade Point = 9 * Grade 'A' (Very Good): Marks 70-79%, Grade Point = 8 * Grade 'B+' (Good): Marks 60-69%, Grade Point = 7 * Grade 'B' (Above Average): Marks 50-59%, Grade Point = 6 * Grade 'C' (Pass): Marks 40-49%, Grade Point = 5",
+    "source": "academic_regulations.txt",
+    "chunk_id": 4,
+    "metadata": {
+      "char_count": 445,
+      "word_count": 80
+    }
+  },
+  {
+    "text": "Point = 6 * Grade 'C' (Pass): Marks 40-49%, Grade Point = 5 * Grade 'F' (Fail): Marks < 40%, Grade Point = 0 (Must reappear in supplementary exam) * Grade 'Ab' (Absent): Grade Point = 0 - Semester Grade Point Average (SGPA) = Sum(Credits * Grade Points) / Sum(Credits) for the semester. - Cumulative Grade Point Average (CGPA) = Sum of all grade points across all completed semesters divided by total registered credits.",
+    "source": "academic_regulations.txt",
+    "chunk_id": 5,
+    "metadata": {
+      "char_count": 420,
+      "word_count": 74
+    }
+  },
+  {
+    "text": "COLLEGE ADMISSIONS, SCHOLARSHIPS & FEE STRUCTURE 1. FEE SCHEDULE & PAYMENT DEADLINES: - Tuition fees for Odd Semesters (Sem 1, 3, 5, 7): Must be paid on or before August 15th of each academic year. - Tuition fees for Even Semesters (Sem 2, 4, 6, 8): Must be paid on or before January 15th of each academic year. - Late Payment Penalty: * Up to 7 days late: INR 50 per day late fine. * 8 to 20 days late: Flat INR 1,500 penalty.",
+    "source": "admissions_and_fees.txt",
+    "chunk_id": 0,
+    "metadata": {
+      "char_count": 427,
+      "word_count": 84
+    }
+  },
+  {
+    "text": "day late fine. * 8 to 20 days late: Flat INR 1,500 penalty. * After 20 days: Student portal registration is blocked until approved by the Dean of Finance.\n\n2. ACCEPTED PAYMENT MODES:\n- Online payments through the student ERP portal via Net Banking, UPI, Credit/Debit cards.\n- Demand Draft (DD) in favor of \"Principal, Engineering College\" payable at campus bank branch.\n- Cash payments are strictly not accepted at the cash counter. 3.",
+    "source": "admissions_and_fees.txt",
+    "chunk_id": 1,
+    "metadata": {
+      "char_count": 435,
+      "word_count": 74
+    }
+  },
+  {
+    "text": "h payments are strictly not accepted at the cash counter. 3. SCHOLARSHIPS & FINANCIAL ASSISTANCE: - Merit Scholarship: Top 5% students of each branch with CGPA > 9.0 receive a 25% tuition fee waiver for the subsequent academic year. - Sports & Cultural Scholarship: 15% to 50% tuition fee waiver for students representing the university at state or national levels.",
+    "source": "admissions_and_fees.txt",
+    "chunk_id": 2,
+    "metadata": {
+      "char_count": 365,
+      "word_count": 60
+    }
+  },
+  {
+    "text": "nts representing the university at state or national levels. - Government Scholarships: Eligible SC/ST/OBC/EWS students can apply for State Post-Matric Scholarships and National Scholarship Portal (NSP) schemes. The college scholarship cell assists with document verification.",
+    "source": "admissions_and_fees.txt",
+    "chunk_id": 3,
+    "metadata": {
+      "char_count": 276,
+      "word_count": 35
+    }
+  },
+  {
+    "text": "4. REFUND & CANCELLATION POLICY:\n- Cancellation requested before orientation: 100% refund minus INR 1,000 processing charges.\n- Cancellation requested within 15 days of semester commencement: 80% tuition fee refund.\n- No refund is applicable after 30 days of semester commencement.",
+    "source": "admissions_and_fees.txt",
+    "chunk_id": 4,
+    "metadata": {
+      "char_count": 281,
+      "word_count": 41
+    }
+  },
+  {
+    "text": "COLLEGE CAMPUS FACILITIES & HOSTEL REGULATIONS 1. HOSTEL ACCOMMODATION & MESS SERVICES: - Room Allotment: Hostel rooms (Double sharing and Triple sharing) are allocated based on merit and distance from hometown. - Annual Hostel Fee: * Double Sharing with AC: INR 95,000 per year (including mess charges) * Non-AC Sharing: INR 70,000 per year (including mess charges) * Refundable caution deposit: INR 5,000 at time of admission. - Mess Timings:",
+    "source": "campus_and_hostels.txt",
+    "chunk_id": 0,
+    "metadata": {
+      "char_count": 444,
+      "word_count": 70
+    }
+  },
+  {
+    "text": "ion deposit: INR 5,000 at time of admission. - Mess Timings: * Breakfast: 07:30 AM \u2013 09:00 AM * Lunch: 12:30 PM \u2013 02:00 PM * Snacks: 04:45 PM \u2013 05:45 PM * Dinner: 07:30 PM \u2013 09:30 PM - Curfew & In-Out Timings: * All hostel residents must return inside hostel premises before 09:30 PM. * Night outpass requires prior written approval from parent/guardian via the warden portal 24 hours in advance. 2. CENTRAL LIBRARY & DIGITAL RESOURCE CENTER:",
+    "source": "campus_and_hostels.txt",
+    "chunk_id": 1,
+    "metadata": {
+      "char_count": 442,
+      "word_count": 80
+    }
+  },
+  {
+    "text": "rs in advance. 2. CENTRAL LIBRARY & DIGITAL RESOURCE CENTER: - Working Hours: * Monday to Friday: 08:00 AM to 10:00 PM * Saturday & Sunday: 09:00 AM to 05:00 PM * During Exam Period: Open until 11:30 PM - Book Borrowing Quota: * Undergraduate students: 4 books for 14 days (renewable once). * Late return overdue charge: INR 2 per book per day.",
+    "source": "campus_and_hostels.txt",
+    "chunk_id": 2,
+    "metadata": {
+      "char_count": 344,
+      "word_count": 64
+    }
+  },
+  {
+    "text": "once). * Late return overdue charge: INR 2 per book per day. - Digital Library: Provides free access to IEEE Xplore, ScienceDirect, Springer, and ACM Digital Library via campus network.",
+    "source": "campus_and_hostels.txt",
+    "chunk_id": 3,
+    "metadata": {
+      "char_count": 185,
+      "word_count": 30
+    }
+  },
+  {
+    "text": "3. CAMPUS HEALTH CLINIC & AMBULANCE:\n- 24/7 on-campus medical health center with resident medical officer and nursing staff.\n- Ambulance service is available round-the-clock for emergencies (Ext: 108 / +91-1234567890).\n- Free basic medications and emergency first aid provided to all enrolled students and staff.",
+    "source": "campus_and_hostels.txt",
+    "chunk_id": 4,
+    "metadata": {
+      "char_count": 312,
+      "word_count": 46
+    }
+  },
+  {
+    "text": "4. CAMPUS WI-FI ACCESS:\n- High-speed 1 Gbps Wi-Fi is available across all academic blocks, hostels, and library.\n- Registration: Connect to \"College-Secure\", login using Roll Number and College Portal Password. Up to 2 devices per student.",
+    "source": "campus_and_hostels.txt",
+    "chunk_id": 5,
+    "metadata": {
+      "char_count": 239,
+      "word_count": 37
+    }
+  },
+  {
+    "text": "COLLEGE EXAMINATION GUIDELINES & PROCEDURES 1. EXAMINATION SCHEME & WEIGHTAGE: - Continuous Internal Assessment (CIE): 30% weightage. * Mid-Term Exam 1: 15 marks * Mid-Term Exam 2: 15 marks * Assignments, quizzes, and classroom attendance: 10 marks (normalized to 30) - Semester End Examinations (SEE): 70% weightage. * Conducted over 3 hours duration for each theory course.",
+    "source": "examination_guidelines.txt",
+    "chunk_id": 0,
+    "metadata": {
+      "char_count": 375,
+      "word_count": 57
+    }
+  },
+  {
+    "text": "e. * Conducted over 3 hours duration for each theory course. * Passing minimum: 35% in SEE (25 out of 70 marks) and an aggregate of 40% (40 out of 100 marks) combined CIE + SEE. 2. HALL TICKET & ADMIT CARD: - Digital Hall tickets are issued via the student portal (portal.college.edu) 7 days before examination commencement. - Mandatory requirements to download Hall Ticket: * Minimum 75% attendance confirmed by respective department HOD.",
+    "source": "examination_guidelines.txt",
+    "chunk_id": 1,
+    "metadata": {
+      "char_count": 439,
+      "word_count": 74
+    }
+  },
+  {
+    "text": "nimum 75% attendance confirmed by respective department HOD. * No outstanding dues certificate from accounts and central library. - Students must carry the printed Hall Ticket and physical Student ID card to each exam session. Entry without these credentials is strictly prohibited.",
+    "source": "examination_guidelines.txt",
+    "chunk_id": 2,
+    "metadata": {
+      "char_count": 282,
+      "word_count": 42
+    }
+  },
+  {
+    "text": "3. REVALUATION & CHALLENGE EVALUATION:\n- Students dissatisfied with their evaluation can apply for revaluation within 15 calendar days from the date of result declaration.\n- Revaluation fee: INR 500 per subject.\n- Challenge valuation is permitted if the student remains dissatisfied after revaluation. Challenge evaluation fee is INR 5,000 per subject (refundable if the grade improves by more than 15%).",
+    "source": "examination_guidelines.txt",
+    "chunk_id": 3,
+    "metadata": {
+      "char_count": 404,
+      "word_count": 61
+    }
+  },
+  {
+    "text": "4. SUPPLEMENTARY / BACKLOG EXAMINATIONS:\n- Supplementary exams for odd semesters are conducted alongside even semester exams, and vice versa.\n- Students can register for a maximum of 4 backlog courses per supplementary session.\n- Backlog registration fee: INR 350 per course.",
+    "source": "examination_guidelines.txt",
+    "chunk_id": 4,
+    "metadata": {
+      "char_count": 275,
+      "word_count": 42
+    }
+  },
+  {
+    "text": "COLLEGE TRAINING & PLACEMENT CELL (T&P) GUIDELINES\n\n1. PLACEMENT ELIGIBILITY CRITERIA:\n- Minimum overall CGPA of 6.5 or above across completed semesters.\n- Students must have zero active backlogs at the commencement of campus recruitment drives.\n- Minimum 80% attendance in all pre-placement training (PPT) sessions, coding assessments, and soft skills workshops.",
+    "source": "placement_and_training.txt",
+    "chunk_id": 0,
+    "metadata": {
+      "char_count": 363,
+      "word_count": 52
+    }
+  },
+  {
+    "text": "2. ONE-STUDENT ONE-OFFER POLICY:\n- Once a student secures an offer with a CTC >= INR 6 LPA (Tier-1 Dream Offer), they are considered placed and are only eligible to apply for \"Super Dream\" companies offering CTC >= INR 12 LPA.\n- A student who receives two offers must confirm acceptance of one offer within 48 hours.",
+    "source": "placement_and_training.txt",
+    "chunk_id": 1,
+    "metadata": {
+      "char_count": 316,
+      "word_count": 57
+    }
+  },
+  {
+    "text": "3. INTERNSHIPS:\n- Summer internships (6 to 8 weeks) after 6th semester are mandatory for all undergraduate students.\n- Students securing semester-long internships in 8th semester must obtain an NOC (No Objection Certificate) from the Head of the Department and maintain weekly project progress reports.",
+    "source": "placement_and_training.txt",
+    "chunk_id": 2,
+    "metadata": {
+      "char_count": 302,
+      "word_count": 45
+    }
+  },
+  {
+    "text": "4. RESUME & INTERVIEW PREPARATION:\n- Standard college format resume verified and signed by faculty coordinator is mandatory for company applications.\n- Mock technical interviews and group discussions are conducted every Saturday starting from 5th semester.\n- Training modules include Data Structures & Algorithms, System Design, Aptitude, Quantitative Analysis, and Verbal Reasoning.",
+    "source": "placement_and_training.txt",
+    "chunk_id": 3,
+    "metadata": {
+      "char_count": 383,
+      "word_count": 52
+    }
+  }
+]
