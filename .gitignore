@@ -32,3 +32,4 @@ data/vector_index/*.npy
 .vscode/
 .idea/
 *.log
+waste-classification-cnn/
